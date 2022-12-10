@@ -42,7 +42,7 @@ namespace SizeChecker
                 return 0;
             }
 
-            Console.WriteLine("Input hole A size(number):");
+            Console.WriteLine("Input hole B size(number):");
             int b = int.Parse(Console.ReadLine());
 
             if (InputChecker(b) == 0)
@@ -71,7 +71,20 @@ namespace SizeChecker
 
         static void SizeCheck(int x, int y, int z, int a, int b)
         {
-            
+            if ((x == a && y == b) || (x == b && y == a))
+            {
+                Console.WriteLine("The beam will pass through the hole!");
+            }
+
+            else if ((z == a && y == b) || (x == a && z == b))
+            {
+                Console.WriteLine("The beam will pass through the hole!");
+            }
+
+            else
+            {
+                Console.WriteLine("The beam won't pass through the hole!");
+            }
         }
     }
 }

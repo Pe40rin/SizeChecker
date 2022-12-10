@@ -1,0 +1,8 @@
+D:\ReposGit\SizeChecker\SizeChecker\bin\Debug\SizeChecker.exe.config
+D:\ReposGit\SizeChecker\SizeChecker\bin\Debug\SizeChecker.exe
+D:\ReposGit\SizeChecker\SizeChecker\bin\Debug\SizeChecker.pdb
+D:\ReposGit\SizeChecker\SizeChecker\obj\Debug\SizeChecker.csproj.AssemblyReference.cache
+D:\ReposGit\SizeChecker\SizeChecker\obj\Debug\SizeChecker.csproj.SuggestedBindingRedirects.cache
+D:\ReposGit\SizeChecker\SizeChecker\obj\Debug\SizeChecker.csproj.CoreCompileInputs.cache
+D:\ReposGit\SizeChecker\SizeChecker\obj\Debug\SizeChecker.exe
+D:\ReposGit\SizeChecker\SizeChecker\obj\Debug\SizeChecker.pdb
